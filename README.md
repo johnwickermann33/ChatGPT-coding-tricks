@@ -1,2 +1,1 @@
-# ChatGPT-coding-tricks
-Interesting implementations created by GTP chat
+#Interesting implementations created by GTP chat
